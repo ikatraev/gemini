@@ -1,0 +1,38 @@
+# Subprojects
+avro-to-json/
+jsonschema2pojo/
+
+# Maven
+target/
+
+# Gradle
+build/
+.gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Editor swap/backup files
+*.swp
+*.swo
+*~
+.#*
+*.orig
